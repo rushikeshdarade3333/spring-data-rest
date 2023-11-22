@@ -8,7 +8,7 @@
 ![Spring Boot Starter Validation](https://img.shields.io/badge/Spring%20Boot%20Starter%20Validation-3.1.3-brightgreen.svg)
 ![Spring Boot Starter Test](https://img.shields.io/badge/Spring%20Boot%20Starter%20Test-3.1.3-brightgreen.svg)
 
-This repository hosts a user data management API developed with Spring Boot, leveraging the power of Spring Data Rest,Spring Data JPA for streamlined data persistence. Thanks to Spring Data JPA's inherent capabilities, there's no need for explicit controller and service layers, simplifying the architecture and promoting a more concise and maintainable codebase.
+This repository hosts a user data management API developed with Spring Boot, leveraging the power of Spring Data Rest, Spring Data JPA for streamlined data persistence. Thanks to Spring Data Rest's inherent capabilities, there's no need for explicit controller and service layers, simplifying the architecture and promoting a more concise and maintainable codebase.
 
 ## Developer
 
