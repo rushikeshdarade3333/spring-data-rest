@@ -1,8 +1,7 @@
 # Spring Data REST API
 ![Java](https://img.shields.io/badge/Java-17-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.1.3-brightgreen.svg)
-![Spring Data Rest](https://img.shields.io/badge/Spring%20Boot-3.1.3-brightgreen.svg)
-![Spring Web](https://img.shields.io/badge/Spring%20Web-3.1.3-brightgreen.svg)
+![Spring Data REST](https://img.shields.io/badge/Spring%20Data%20REST-3.1.3-brightgreen.svg)![Spring Web](https://img.shields.io/badge/Spring%20Web-3.1.3-brightgreen.svg)
 ![Spring Data JPA](https://img.shields.io/badge/Spring%20Data%20JPA-3.1.3-brightgreen.svg)
 ![MySQL Connector/J](https://img.shields.io/badge/MySQL%20Connector%2FJ-8.0.23-blue.svg)
 ![Lombok](https://img.shields.io/badge/Lombok-1.18.22-yellow.svg)
